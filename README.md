@@ -72,4 +72,4 @@ Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al re
 
 ## Autor
 
-<Andres Gonzalez ALonso Matricula:367600>
+Andres Gonzalez ALonso Matricula:367600
